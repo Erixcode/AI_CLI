@@ -48,4 +48,5 @@ When to Use FP16
 🔧 Installation:<br>
 
   <code>  pip install torch transformers </code>
-  edit your LLM path inside the code line 13
+  
+  <br>edit your LLM PATH inside code, <code> line 13</code>

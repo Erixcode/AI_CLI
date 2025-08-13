@@ -1,5 +1,8 @@
 # AI_CLI
 Use AI in your Terminal Localy
+<img width="1920" height="1152" alt="Screenshot From 2025-08-14 02-02-55" src="https://github.com/user-attachments/assets/812c9d1d-d3ce-41c1-8762-8fbf8c557398" />
+
+<img width="1920" height="1152" alt="Screenshot From 2025-08-14 02-05-19" src="https://github.com/user-attachments/assets/6c1379e4-17ae-46c7-b81c-213c3396e4ff" />
 
 This is modification from my ChatGPT_Linux_Terminal but with modification to use any LLM localy, since you may face internet issue like no
 coverage or like me 12days war ended up having no internet, you can have your AI assistance with you all the time privately, or maybe you are
@@ -38,6 +41,7 @@ When to Use FP16
     You have a GPU with limited VRAM (e.g., 8GB or less).
 
     You want faster inference (especially for larger models like 1.5B+).
+<img width="1231" height="518" alt="Screenshot From 2025-08-14 02-08-33" src="https://github.com/user-attachments/assets/3ee6b266-de87-4870-ae5d-a3844c73e10a" />
 
 ❌ Avoid if:
 

@@ -6,7 +6,7 @@ coverage or like me 12day war ending up have no internet, you can have your AI a
 in Environment where you cannot have internet access for your workspace or you have privacy concerns, this approach is a nice solution.
 in this model I used deepseek 1.5b which is compatible with my laptop, if you have better hardware, you can go with different model.
 
-there is lot's of solutions, like ollama or LM Studio, but I leave in Terminal and don't want to use browser :)
+there is lot's of solutions, like Ollama(which is not available for me) or LM Studio, but I leave in Terminal and don't want to use browser :)
 
 ✅ Benefits of This Approach
 

@@ -28,8 +28,21 @@ in this model I used deepseek 1.5b which is compatible with my laptop, if you ha
 
     Subsequent queries will be fast.
 
-    GPU users: Add --fp16 to halve memory usage (edit load_model()).
+GPU users: Add --fp16 to halve memory usage (edit load_model()).
+When to Use FP16
 
-🔧 Requirements:<br>
+✅ Recommended if:
+
+    You have a GPU with limited VRAM (e.g., 8GB or less).
+
+    You want faster inference (especially for larger models like 1.5B+).
+
+❌ Avoid if:
+
+    You need maximum accuracy (e.g., for code generation where exact syntax matters).
+
+    You’re already running smoothly in full precision.
+
+🔧 Installation:<br>
 
   <code>  pip install torch transformers </code>

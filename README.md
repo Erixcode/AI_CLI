@@ -28,6 +28,8 @@ in this model I used deepseek 1.5b which is compatible with my laptop, if you ha
 
     Subsequent queries will be fast.
 
+    GPU users: Add --fp16 to halve memory usage (edit load_model()).
+
 🔧 Requirements:<br>
 
   <code>  pip install torch transformers </code>

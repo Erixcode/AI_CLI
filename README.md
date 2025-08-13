@@ -2,7 +2,7 @@
 Use AI in your Terminal Localy
 
 This is modification from my ChatGPT_Linux_Terminal but with modification to use any LLM localy, since you may face internet issue like no
-coverage or like me 12day war ending up have no internet, you can have your AI assistance with you all the time privately, or maybe you are
+coverage or like me 12days war ending up have no internet, you can have your AI assistance with you all the time privately, or maybe you are
 in Environment where you cannot have internet access for your workspace or you have privacy concerns, this approach is a nice solution.
 in this model I used deepseek 1.5b which is compatible with my laptop, if you have better hardware, you can go with different model.
 
